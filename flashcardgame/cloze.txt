@@ -1,0 +1,1 @@
+{"text":"Taylor Swift was born in 1989","cloze":"1998"}{"text":"Bill Murray is the funniest man alive is True","cloze":"True"}{"text":"The current president of the US is Donny Trump","cloze":"Donny Trump"}
